@@ -1,5 +1,5 @@
 ---
-title: 'Blini: lightweight nucleotide sequence search and dereplication'
+title: 'Panzera Auto-Renderer Add-on for Blender: a tool for standardized multi-viewpoint rendering of 3D models for educational, scientific and artistic applications'
 tags:
   - genetics
   - metagenomics
