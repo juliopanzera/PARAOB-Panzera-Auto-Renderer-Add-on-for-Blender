@@ -196,4 +196,11 @@ Despite its advantages, PARAOB presents certain limitations that should be ackno
 
 In summary, PARAOB represents a contribution to Blender-based workflows by automating critical rendering tasks, improving reproducibility, reducing cognitive effort and supporting standardized visualization procedures. Its design and implementation demonstrate how targeted automation can enhance productivity across scientific, educational and artistic applications, while also providing a foundation for future developments aimed at achieving even greater flexibility and automation in multi-viewpoint rendering.
 
+# Availability
+This software is a computer program registered at the Brazilian National Institute of Industrial Property (INPI) under registration number BR512025006285-0.
+
+It is released under GPL-3.0 and contributions via pull requests or issues are welcome. Any use, modification, or redistribution of this software must comply with the terms of the GNU GPL.
+
+Source code, documentation and tutorials are hosted at: [https://github.com/juliopanzera/PARAOB-Panzera-Auto-Renderer-Add-on-for-Blender](https://github.com/juliopanzera/PARAOB-Panzera-Auto-Renderer-Add-on-for-Blender). 
+
 # References
