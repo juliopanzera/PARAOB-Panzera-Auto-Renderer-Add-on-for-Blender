@@ -11,12 +11,12 @@ tags:
   - art
 authors:
   - name: Júlio Panzera-Gonçaves
-    orcid: 0000-0003-3928-5907
+    orcid: 000-0002-1644-2546
     affiliation: '1'
 affiliations:
   - index: 1
-    name: University of California, Irvine, CA, United States of America
-date: 24 June 2025
+    name: Department of Morphology of the Biological Sciences Institute, Universidade Federal de Minas Gerais, UFMG, Belo Horizonte, MG, Brazil
+date: 5 January 2026
 bibliography: paper.bib
 ---
 
