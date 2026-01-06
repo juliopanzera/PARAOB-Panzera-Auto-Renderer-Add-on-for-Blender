@@ -8,7 +8,7 @@ PARAOB addresses common challenges in Blender-based rendering, such as manual ca
 The add-on emphasizes workflow efficiency, reproducibility and low cognitive load, providing a modular and customizable interface that allows users to control lighting, camera distance, background configuration, resolution and output management from a single panel. Implemented as a lightweight Python-based add-on and fully integrated into Blender, PARAOB requires no external dependencies and can be easily installed and used across different projects.
 
 # Installation
-1. Blender add-on are available in .by format. Download the latest version of PARAOB in the Releases section.
+1. Blender add-on are available in .py format. Download the latest version of PARAOB in the Releases section.
 2. Open Blender.
 3. Go to Edit → Preferences.
 4. Select Add-ons.
