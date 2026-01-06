@@ -1,4 +1,5 @@
 # PARAOB - Panzera Auto-Renderer Add-on for Blender (Requires Blender 2.80 or newer)
+
 Panzera Auto-Renderer Add-on for Blender (PARAOB) is a tool for automated and standardized multi-viewpoint rendering of 3D models within the Blender environment.
 
 It is designed to support scientific, educational and artistic workflows that require reproducible visualization, consistent camera alignment and uniform lighting across multiple render outputs.
