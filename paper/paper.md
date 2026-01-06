@@ -1,22 +1,17 @@
 ---
-title: Panzera Auto-Renderer Add-on for Blender: a tool for standardized multi-viewpoint rendering of 3D models for educational, scientific and artistic applications
+title: 'Blini: lightweight nucleotide sequence search and dereplication'
 tags:
-  - Blender
-  - add-on
-  - python
-  - rendering automation
-  - 3D visualization
-  - education software
-  - scientific software
-  - art software
+  - genetics
+  - metagenomics
+  - microbiome
 authors:
-  - name: Júlio Panzera-Gonçalves
-    orcid: 0000-0002-1644-2546
+  - name: Amit Lavon
+    orcid: 0000-0003-3928-5907
     affiliation: '1'
 affiliations:
   - index: 1
-    name: Department of Morphology of the Biological Sciences Institute, Universidade Federal de Minas Gerais, UFMG, Belo Horizonte, MG, Brazil
-date: 5 January 2026
+    name: University of California, Irvine, CA, United States of America
+date: 24 June 2025
 bibliography: paper.bib
 ---
 
