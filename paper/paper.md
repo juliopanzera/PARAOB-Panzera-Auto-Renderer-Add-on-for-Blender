@@ -1,11 +1,16 @@
 ---
 title: 'Panzera Auto-Renderer Add-on for Blender: a tool for standardized multi-viewpoint rendering of 3D models for educational, scientific and artistic applications'
 tags:
-  - genetics
-  - metagenomics
-  - microbiome
+  - blender
+  - add-on
+  - python
+  - rendering automation
+  - 3D visualization
+  - education
+  - science
+  - art
 authors:
-  - name: Amit Lavon
+  - name: Júlio Panzera-Gonçaves
     orcid: 0000-0003-3928-5907
     affiliation: '1'
 affiliations:
